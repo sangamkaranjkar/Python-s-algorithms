@@ -127,8 +127,5 @@ def partition(list,first,last):
     return rightmark
 
 
-
-lists=[4,5,8,2,1]
-print(quicksort(lists))
-print(lists)        
+       
     
